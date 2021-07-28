@@ -1,4 +1,4 @@
-`public class Main {
+```public class Main {
 
 public static void main(String[] args) {
 
@@ -11,4 +11,4 @@ int miles = ticket_value / 20;
         System.out.println(miles);
 
     }
-}`
+}```
